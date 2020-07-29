@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/enigma/precache-manifest.f407d8b477f499efd33cb82120c4c892.js"
+  "/enigma/precache-manifest.a75fe74edfcbddd25487f255a19302f8.js"
 );
 
 self.addEventListener('message', (event) => {
